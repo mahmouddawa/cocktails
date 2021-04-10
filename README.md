@@ -1,11 +1,5 @@
-#### React Router Fix
+application can be checked in the following link:
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+https://hannah-bar.netlify.app/
 
-#### CRA Fix
 
-```
-
-"build": "CI= react-scripts build",
-
-```
